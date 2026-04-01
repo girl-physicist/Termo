@@ -11,14 +11,14 @@
             "id": "1b95d1919fbf0df9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Структура Шаблон_страницы"
             }
+          },
+          {
+            "id": "e4cf3f2adeec717e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +198,8 @@
   },
   "active": "1b95d1919fbf0df9",
   "lastOpenFiles": [
-    "01-Теоретические_основы/Второй_закон.md",
     "README.md",
+    "01-Теоретические_основы/Второй_закон.md",
     "09-Ресурсы_и_литература/Pasted image 20260401101225.png",
     "00-Dashboard/Главная.md",
     "05-Интерактивные_элементы/3D_модели/Цилиндр_с_поршнем_3D.md",
