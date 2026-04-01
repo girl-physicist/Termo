@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Теоретические_основы/Второй_закон.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Второй_закон"
+              "title": "README"
             }
           }
         ]
@@ -181,14 +181,16 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "1b95d1919fbf0df9",
   "lastOpenFiles": [
+    "01-Теоретические_основы/Второй_закон.md",
     "README.md",
     "09-Ресурсы_и_литература/Pasted image 20260401101225.png",
-    "01-Теоретические_основы/Второй_закон.md",
     "00-Dashboard/Главная.md",
     "05-Интерактивные_элементы/3D_модели/Цилиндр_с_поршнем_3D.md",
     "05-Интерактивные_элементы/3D_модель_цилиндра.md",
