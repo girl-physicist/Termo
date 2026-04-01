@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9c0cbda18d5ec237",
+        "id": "32bca2a6e38e1786",
         "type": "tabs",
         "children": [
           {
-            "id": "1b95d1919fbf0df9",
+            "id": "917231c536df15c4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -196,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b95d1919fbf0df9",
+  "active": "917231c536df15c4",
   "lastOpenFiles": [
     "README.md",
     "01-Теоретические_основы/Второй_закон.md",
