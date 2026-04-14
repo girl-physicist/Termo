@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "09-Ресурсы_и_литература/База_ресурсов/MOC для всех ресурсов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "MOC для всех ресурсов"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для README"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из README"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -156,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура README"
+              "title": "Структура"
             }
           },
           {
@@ -196,11 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4cf3f2adeec717e",
+  "active": "917231c536df15c4",
   "lastOpenFiles": [
+    "09-Ресурсы_и_литература/Pasted image 20260401101225.png",
+    "09-Ресурсы_и_литература/Фреоны.pdf",
+    "09-Ресурсы_и_литература/Свойства_топлив.md",
     "README.md",
     "01-Теоретические_основы/Второй_закон.md",
-    "09-Ресурсы_и_литература/Pasted image 20260401101225.png",
     "00-Dashboard/Главная.md",
     "05-Интерактивные_элементы/3D_модели/Цилиндр_с_поршнем_3D.md",
     "05-Интерактивные_элементы/3D_модель_цилиндра.md",
@@ -222,10 +221,7 @@
     "05-Интерактивные_элементы/Конструктор графиков.md",
     "05-Интерактивные_элементы/конструктор политропного процесса.md",
     "06-Расчетные_модули/Методики_расчета/Расчет_циклов_ДВС_общий.md",
-    "09-Ресурсы_и_литература/Фреоны.pdf",
     "05-Интерактивные_элементы/База_i-lgP_диаграмм.md",
-    "05-Интерактивные_элементы/3D_модели/3D_модели_компоновок.md",
-    "04-Лабораторные_работы/Работа_6_Построение_цикла_ПКХМ.md",
     "00-Dashboard/00-Dashboard.base",
     "UI-UX.canvas",
     "08 - База_знаний",
