@@ -9,6 +9,7 @@ tags: [moc, resources]
 
 https://docs.google.com/document/d/1ZHS6w8z6oG6BFdwEbOTfq25AeqIYR86O/edit?usp=sharing&ouid=103547000995389574363&rtpof=true&sd=true
 
+
 - [[Кириллин_2008_Основы_термодинамики]] — фундаментальный учебник
     
 - [[Базаров_Термодинамика]] — классический курс
